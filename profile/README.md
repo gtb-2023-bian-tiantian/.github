@@ -1,8 +1,8 @@
 # Hi, guys~
-<This is my organization profile.
-<<Welcome to contact us and feel free to ask any questions!
+< This is my organization profile.
+<< Welcome to contact us and feel free to ask any questions!
 <<
-<<My name is Tiantian Bian.
+<< My name is Tiantian Bian.
 <!--
 
 **Here are some ideas to get you started:**
